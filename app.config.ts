@@ -1,7 +1,7 @@
 export default defineAppConfig({
   shadcnDocs: {
     site: {
-      name: 'Hoàng Hồng Quân',
+      name: 'Hải',
       description: '',
     },
     theme: {
@@ -10,7 +10,7 @@ export default defineAppConfig({
       radius: 0.5,
     },
     header: {
-      title: 'Hoàng Hồng Quân',
+      title: 'Hải',
       showTitle: true,
       darkModeToggle: true,
       logo: {
